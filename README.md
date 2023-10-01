@@ -59,8 +59,8 @@ range (between 3000 and 7000 Kg) while ISS has the widest range of payloads. The
 corresponding to VLEO orbits might also be explained by the higher capacity of the latest boosters.
 
 <br/>
-### Summary of other insights
-<br/>
+
+## Summary of other insights
 (for a full discussion check the full report following the link above)
 <br/>
 
