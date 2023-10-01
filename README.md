@@ -16,7 +16,7 @@ The project workflow and most of the code in the project notebooks were authored
 
 The project was organized into labs, with each lab corresponding to a step in a typical data science project lifecycle. The program participant was responsible for completing tasks, conducting analysis, and writing the final report.
 
-You can read my comprehensive 67-page project report, which combines both technical and non-technical styles to describe each project step and discuss numerous insights from the data analysis, by following this link: <a href="https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf">Full report</a>. 
+You can read my comprehensive 67-page project report, which combines both technical and non-technical styles to describe each project step and discuss numerous insights from the data analysis, by following this link: <a href="https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Final_Report.pdf">Full report</a>. 
 
 <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>
 
