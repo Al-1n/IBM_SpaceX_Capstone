@@ -10,7 +10,30 @@
 
 In this project, we utilize Data Science tools to analyze and map the critical components that have defined SpaceX's successful business model, securing its leadership position in the space launch industry.
 
----
+**Requirements**
+|* JupyterLab |* Requests       |* Pandas       |
+|* NumPy      |* Beautiful Soup |* Matplotlib   |
+|* Seaborn    |* SQLAlchemy     |* Ipython-sql  |
+|* Folium     |* Wget           |* Scikit-learn |   
+
+* JupyterLab
+* Requests
+* Pandas
+* NumPy
+* Beautiful Soup
+* Matplotlib
+* Seaborn
+* SQLAlchemy
+* Ipython-sql
+* Folium
+* Wget
+* Scikit-learn
+
+**How to use this project**
+
+Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used to run the code.
+
+**Contributors**
 
 The project workflow and most of the code in the project notebooks were authored by <a href="https://www.linkedin.com/in/joseph-s-50398b136/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Joseph Santarcangelo</a>, <a href="https://www.linkedin.com/in/yan-luo-96288783/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Yan Luo</a>, <a href="https://www.linkedin.com/in/nayefaboutayoun/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Nayef Abou Tayoun</a>, and Lakshmi Holla for the IBM Data Science Certification Capstone Project. 
 
