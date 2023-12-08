@@ -12,6 +12,7 @@ In this project, we utilize Data Science tools to analyze and map the critical c
 
 **Requirements**
 
+|                                            | 
 | ---------- | -------------- | ------------ |
 | JupyterLab | Requests       | Pandas       |
 | NumPy      | Beautiful Soup | Matplotlib   |
