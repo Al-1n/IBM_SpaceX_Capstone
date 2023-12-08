@@ -33,15 +33,37 @@ In this project, we utilize Data Science tools to analyze and map the critical c
             </tr>
             <tr height="16">
                 <td colspan="16">
-                    JupyterLab
+                    Numpy
                 </td>
                 <td colspan="16">
-                    Requests
+                    Beautiful Soup
                 </td>
                 <td colspan="16">
-                    Pandas
+                    Matplotlib
                 </td>
             </tr>
+            <tr height="16" hidden>
+                <td colspan="16">
+                    Seaborn
+                </td>
+                <td colspan="16">
+                    SQLAlchemy                 
+                </td>
+                <td colspan="16">
+                    Ipython-sql
+                </td>
+            </tr>
+            <tr height="16">
+                <td colspan="16">
+                    Folium
+                </td>
+                <td colspan="16">
+                    Wget
+                </td>
+                <td colspan="16">
+                    Scikit-learn
+                </td>
+            </tr>            
     </table>
 
 * JupyterLab
