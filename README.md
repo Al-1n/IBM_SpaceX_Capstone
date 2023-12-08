@@ -11,10 +11,10 @@
 In this project, we utilize Data Science tools to analyze and map the critical components that have defined SpaceX's successful business model, securing its leadership position in the space launch industry.
 
 **Requirements**
-|* JupyterLab |* Requests       |* Pandas       |
-|* NumPy      |* Beautiful Soup |* Matplotlib   |
-|* Seaborn    |* SQLAlchemy     |* Ipython-sql  |
-|* Folium     |* Wget           |* Scikit-learn |   
+| JupyterLab | Requests       | Pandas       |
+| NumPy      | Beautiful Soup | Matplotlib   |
+| Seaborn    | SQLAlchemy     | Ipython-sql  |
+| Folium     | Wget           | Scikit-learn |   
 
 * JupyterLab
 * Requests
