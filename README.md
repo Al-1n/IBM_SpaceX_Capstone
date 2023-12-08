@@ -20,7 +20,7 @@ In this project, we utilize Data Science tools to analyze and map the critical c
 | Folium     | Wget           | Scikit-learn |   
 
  <table border="0" cellpadding="0" cellspacing="0">
-            <tr height="1" hidden>
+            <tr height="0" hidden>
                 <td colspan="16">
                 </td>
                 <td colspan="16">
