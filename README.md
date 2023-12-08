@@ -12,13 +12,6 @@ In this project, we utilize Data Science tools to analyze and map the critical c
 
 **Requirements**
 
-|            |                |              | 
-| ---------- | -------------- | ------------ |
-| JupyterLab | Requests       | Pandas       |
-| NumPy      | Beautiful Soup | Matplotlib   |
-| Seaborn    | SQLAlchemy     | Ipython-sql  |
-| Folium     | Wget           | Scikit-learn |   
-
  <table border="0" cellpadding="0" cellspacing="0">
             <tr height="16" hidden>
                 <td colspan="16">
@@ -65,19 +58,6 @@ In this project, we utilize Data Science tools to analyze and map the critical c
                 </td>
             </tr>            
     </table>
-
-* JupyterLab
-* Requests
-* Pandas
-* NumPy
-* Beautiful Soup
-* Matplotlib
-* Seaborn
-* SQLAlchemy
-* Ipython-sql
-* Folium
-* Wget
-* Scikit-learn
 
 **How to use this project**
 
