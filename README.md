@@ -19,6 +19,28 @@ In this project, we utilize Data Science tools to analyze and map the critical c
 | Seaborn    | SQLAlchemy     | Ipython-sql  |
 | Folium     | Wget           | Scikit-learn |   
 
+ <table border="0" cellpadding="0" cellspacing="0">
+            <tr height="16" hidden>
+                <td colspan="16">
+                </td>
+                <td colspan="16">
+                </td>
+                <td colspan="16">
+                </td>
+            </tr>
+            <tr height="16">
+                <td colspan="16">
+                    JupyterLab
+                </td>
+                <td colspan="16">
+                    Requests
+                </td>
+                <td colspan="16">
+                    Pandas
+                </td>
+            </tr>
+    </table>
+
 * JupyterLab
 * Requests
 * Pandas
